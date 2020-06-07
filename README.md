@@ -10,7 +10,7 @@ If you're experiencing a bug, please open an issue and I'll look at it as soon a
 That's a good request! The only problem is that the implementation for it is rather complex. Currently when sharing wallpaper between the homescreen and the lockscreen, so is SpringArtwork's view. That means that the same view needs to be altered between every unlock/lock as opposed to simply hiding/showing it (as is happening now when SpringArtwork is only enabled in one of the modes). I might look into it, but it's a low priority for now.
 
 #### Spotify Canvas videos aren't showing up?
-* SpringArtwork does only work with the official version of Spotify. I don't support any piracy copies. Make sure you're running the latest and official version.
+* SpringArtwork only works with the official version of Spotify. Make sure you're running the latest and official version.
 
 * Make sure you're not using a tweak injection blocker such as HideJB or Unsub that blocks SpringArtwork from loading into Spotify.
 
